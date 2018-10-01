@@ -1,7 +1,7 @@
 # What is XDiFF?
  XDiFF is an Extended Differential Fuzzing Framework built for finding 
  vulnerabilities in software. It collects as much data as possible from 
- different executions an then tries to infer different potential vulnerabilities 
+ different executions and then tries to infer different potential vulnerabilities 
  based on the different outputs obtained.
  The vulnerabilities can either be found in isolated pieces of software or by 
  comparing:
